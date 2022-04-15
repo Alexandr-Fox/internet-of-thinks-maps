@@ -1,16 +1,13 @@
 {
   "files": {
     "main.css": "/internet-of-thinks-maps/static/css/main.073c9b0a.css",
-    "main.js": "/internet-of-thinks-maps/static/js/main.51e48c40.js",
-    "static/js/787.9f783ac9.chunk.js": "/internet-of-thinks-maps/static/js/787.9f783ac9.chunk.js",
-    "static/media/logo.svg": "/internet-of-thinks-maps/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/internet-of-thinks-maps/static/js/main.b9ff53fa.js",
     "index.html": "/internet-of-thinks-maps/index.html",
     "main.073c9b0a.css.map": "/internet-of-thinks-maps/static/css/main.073c9b0a.css.map",
-    "main.51e48c40.js.map": "/internet-of-thinks-maps/static/js/main.51e48c40.js.map",
-    "787.9f783ac9.chunk.js.map": "/internet-of-thinks-maps/static/js/787.9f783ac9.chunk.js.map"
+    "main.b9ff53fa.js.map": "/internet-of-thinks-maps/static/js/main.b9ff53fa.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.51e48c40.js"
+    "static/js/main.b9ff53fa.js"
   ]
 }
