@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/internet-of-thinks-maps/static/css/main.073c9b0a.css",
+    "main.js": "/internet-of-thinks-maps/static/js/main.b9ff53fa.js",
+    "index.html": "/internet-of-thinks-maps/index.html",
+    "main.073c9b0a.css.map": "/internet-of-thinks-maps/static/css/main.073c9b0a.css.map",
+    "main.b9ff53fa.js.map": "/internet-of-thinks-maps/static/js/main.b9ff53fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b9ff53fa.js"
+  ]
+}
